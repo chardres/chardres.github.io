@@ -1,0 +1,18 @@
+ 
+   <table class="navig" border="0" align="center">
+          <tr>
+            <td> 
+			<a href="../index.html">Home</a> | 
+			<a href="../recent.html">Recent</a> |
+			<a href="../tng/html_pages/birdindex.htm">Species</a> | 
+			<a href="../birds.html">Birds</a> | 
+			<a href="../fish.html">Fish</a> | 
+			<a href="../mammals.html">Mammals</a> |
+			<a href="../insects.html">Insects</a> |
+			<a href="../fungi.html">Fungi</a> |
+            <a href="../snaps.html">Snaps</a> | 
+			<a href="../wallpaper.html">Wallpaper</a> | 
+			<a href="../index.html#extlinks">Links</a> | 
+			<a href="../index.html#contact">Contact</a> </td>
+          </tr>
+        </table>
